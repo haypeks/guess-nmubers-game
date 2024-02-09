@@ -1,2 +1,2 @@
-# guess-nmubers-game
+# guess-numbers-game
 Guess a number
